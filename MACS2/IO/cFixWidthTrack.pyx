@@ -1,4 +1,3 @@
-# cython: profile=True
 # Time-stamp: <2013-03-05 15:31:41 Tao Liu>
 
 """Module for FWTrack classes.

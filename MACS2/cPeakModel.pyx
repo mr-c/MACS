@@ -1,4 +1,3 @@
-# cython: profile=True
 # Time-stamp: <2013-03-04 00:10:59 Tao Liu>
 
 """Module Description

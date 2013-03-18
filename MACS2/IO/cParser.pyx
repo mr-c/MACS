@@ -1,4 +1,3 @@
-# cython: profile=True
 # Time-stamp: <2013-02-22 13:59:07 Tao Liu>
 
 """Module for all MACS Parser classes for input.

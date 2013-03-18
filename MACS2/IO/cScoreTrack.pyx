@@ -1,4 +1,3 @@
-# cython: profile=True
 # Time-stamp: <2013-03-18 16:44:28 Tao Liu>
 
 """Module for Feature IO classes.

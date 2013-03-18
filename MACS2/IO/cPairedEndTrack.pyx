@@ -1,4 +1,3 @@
-# cython: profile=True
 # Time-stamp: <2012-08-01 18:08:26 Tao Liu>
 
 """Module for filter duplicate tags from paired-end data
