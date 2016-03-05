@@ -1,5 +1,14 @@
 # test all sub-commands
 
+mkdir -p run_callpeak_narrow run_callpeak_broad run_callpeak_pe_narrow \
+	run_callpeak_pe_broad run_bdgcmp_opre fix run_bdgcmp_ofile \
+	run_bdgpeakcall run_bdgbroadcall run_callpeak_narrow_revert \
+	run_bdgdiff run_filterdup run_predictd run_pileup run_randsample \
+	run_refinepeak run_bdgcmp_oprefix
+
+set -x
+set -e
+
 CHIP=CTCF_ChIP_200K.bed.gz
 CTRL=CTCF_Control_200K.bed.gz
 
